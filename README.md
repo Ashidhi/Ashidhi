@@ -5,17 +5,20 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=6495ED&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Aspiring+Data+Scientist+%7C+Python+%7C+ML+%7C+AI" alt="Typing Blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Aspiring+Data+Scientist+%7C+Python+%7C+ML+%7C+AI" alt="Typing Blue" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%AF+Currently+Mastering%3A+Pandas%2C+NumPy%2C+Power+BI%2C+scikit-learn" alt="Typing Yellow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%AF+Currently+Mastering%3A+Pandas%2C+NumPy%2C+Power+BI%2C+scikit-learn" alt="Typing Yellow" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=BA55D3&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%93+Passionate+About+Turning+Data+Into+Stories" alt="Typing Magenta" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=DDA0DD&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%93+Passionate+About+Turning+Data+Into+Stories" alt="Typing Magenta" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=32CD32&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
 </p>
+
+
+
 
 ---
 
@@ -43,16 +46,8 @@
 
 ---
 
-<h3 align="left"> 📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ashidhi-karunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashidhi-karunarathna" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashidhinelusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashidhinelusha" height="30" width="40" /></a>
-<a href="https://instagram.com/_a_shi_dhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_shi_dhi_" height="30" width="40" /></a>
-</p>
 
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashidhi-karunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashidhi Karunarathna" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashidhinelusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashidhinelusha" height="30" width="40" /></a>
