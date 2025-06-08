@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="380" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="90%" height="300" />
 </p>
 
 
@@ -121,8 +121,8 @@
 
 
 ---
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashidhi&theme=algolia)
+ ![GitHub Stats](https://streak-stats.demolab.com?user=Ashidhi&theme=jolly&hide_border=true)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashidhi&theme=algolia)-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashidhi&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashidhi&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashidhi&theme=algolia)
@@ -133,9 +133,6 @@
 
   
  
-
-
-
 
 
 
