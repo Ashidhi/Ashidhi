@@ -26,7 +26,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%9A%80+Aspiring+Data+Scientist+%7C+Python+%7C+ML+%7C+AI" alt="Typing Blue" />
 </p>
@@ -46,7 +45,6 @@
 
 ## 🧰 Tech Stack
 
-### 🚀 Languages
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -63,9 +61,6 @@
   <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-
- 
-### 📊 Libraries
 
  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -85,9 +80,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" style="margin-right: 8px;"/>
 </a>
 
-
-### 💻 Tools
-
 <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
@@ -105,7 +97,7 @@
   <a href="https://jupyter.org/" target=" " rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
-</p>
+
 
 
 ---
