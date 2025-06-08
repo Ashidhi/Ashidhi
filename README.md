@@ -121,23 +121,31 @@
 
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashidhi&theme=jolly&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
 
-<p align="center">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashidhi&theme=algolia" alt="Repos Per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashidhi&theme=algolia" alt="Most Commit Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashidhi&theme=algolia" alt="GitHub Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashidhi&theme=algolia&utcOffset=8" alt="Productive Time"/>
-</p>
-
-  
  
+<div align="center">
 
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Ashidhi&theme=tokyonight&card_width=494" alt="GitHub Streak" />
+  </a>
 
+  <br><br>
 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashidhi&theme=tokyonight" alt="Profile Details" />
+
+  <br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashidhi&theme=tokyonight" alt="Repos Per Language" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashidhi&theme=tokyonight" alt="Most Commit Language" />
+
+  <br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashidhi&theme=tokyonight" alt="GitHub Stats" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashidhi&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+
+</div>
 
 
 
