@@ -2,19 +2,41 @@
 <h3 align="center">🎓 Data Science Student | 📊 Data Explorer | 🤖 ML Beginner </h3>
 
 ---
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+<p>
+⭐I am a Data Science undergraduate student at Plymouth University, eager to build strong skills in Python, Machine Learning, and Artificial Intelligence.
+  
+⭐ Passionate about exploring data and uncovering meaningful patterns that drive informed decisions.
+
+⭐ Continuously learning new technologies and tools to stay updated in this fast-evolving field.
+
+⭐ Dedicated to turning complex data into clear, actionable insights through analysis and visualization.
+
+⭐ Always motivated to grow both personally and professionally, embracing challenges with a positive mindset.
+</p>
+</td>
+<td width="50%" align="center">
+<img align="center" alt="Coding" width="350" src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif">
+</td>
+</tr>
+</table>
+
+
+---
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%9A%80+Aspiring+Data+Scientist+%7C+Python+%7C+ML+%7C+AI" alt="Typing Blue" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%8E%AF+Currently+Mastering%3A+Pandas%2C+NumPy%2C+Power+BI%2C+scikit-learn" alt="Typing Yellow" />
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=DDA0DD&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%8E%93+Passionate+About+Turning+Data+Into+Stories" alt="Typing Magenta" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=90EE90&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%9A%80+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=90EE90&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%93%9A+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
 </p>
 
 
@@ -86,9 +108,7 @@
 </p>
 
 
-
 ---
-
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
@@ -108,13 +128,7 @@
 
   
  
- 
-  
-<!-- Google Colab 
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="Google Colab" width="40" height="40"/>
-  </a>
-</p>-->
+
 
 
 
