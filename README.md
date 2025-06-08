@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<h1 align="center">Hey there 👋, I'm Ashidhi Karunarathna</h1>
+<h3 align="center">🎓 Data Science Student | 📊 Data Explorer | 🤖 ML Beginner </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=I+Love+Playing+with+Data!;Currently+Learning:+ML%2C+Python%2C+Power+BI;Building+Projects+%E2%9A%A1" alt="Typing SVG" />
+</p>
 <!--
 **Ashidhi/Ashidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
