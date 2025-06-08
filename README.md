@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ashidhi Karunarathna</h1>
 <h3 align="center">🎓 Data Science Student | 📊 Data Explorer | 🤖 ML Beginner </h3>
 
-
+---
 
 
 <p align="center">
@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=32CD32&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
 </p>
 
-
+---
 
 ### 🧰 Tech Stack
 
@@ -41,6 +41,14 @@
 
 
 
+---
+
+<h3 align="left"> 📫 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ashidhi-karunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashidhi-karunarathna" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashidhinelusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashidhinelusha" height="30" width="40" /></a>
+<a href="https://instagram.com/_a_shi_dhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_shi_dhi_" height="30" width="40" /></a>
+</p>
 
 
 
@@ -54,17 +62,3 @@
 
 
 
-<!--
-**Ashidhi/Ashidhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
