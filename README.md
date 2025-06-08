@@ -4,12 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Aspiring+Data+Scientist+%7C+Python+%7C+ML+%7C+AI" alt="Typing Blue" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%AF+Currently+Mastering%3A+Pandas%2C+NumPy%2C+Power+BI%2C+scikit-learn" alt="Typing Yellow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61A6&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%AF+Currently+Mastering%3A+Pandas%2C+NumPy%2C+Power+BI%2C+scikit-learn" alt="Typing Yellow" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%8E%93+Passionate+About+Turning+Data+Into+Stories" alt="Typing Magenta" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=25&lines=%F0%9F%9A%80+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
+</p>
 
   
 
