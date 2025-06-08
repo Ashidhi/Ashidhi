@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="380" />
+</p>
+
+
+
 <h1 align="center">Hey there 👋, I'm Ashidhi Karunarathna</h1>
 <h3 align="center">🎓 Data Science Student | 📊 Data Explorer | 🤖 ML Beginner </h3>
 
@@ -6,15 +13,16 @@
 <tr border="none">
 <td width="50%" align="left">
 <p>
-⭐I am a Data Science undergraduate student at Plymouth University, eager to build strong skills in Python, Machine Learning, and Artificial Intelligence.
+⭐ Currently diving deep into Data Science at Plymouth University.
   
-⭐ Passionate about exploring data and uncovering meaningful patterns that drive informed decisions.
+⭐ Enthralled by the art of extracting stories hidden within data.  
 
-⭐ Continuously learning new technologies and tools to stay updated in this fast-evolving field.
+⭐ Committed to mastering Python, Machine Learning, and AI with curiosity and rigor.  
 
-⭐ Dedicated to turning complex data into clear, actionable insights through analysis and visualization.
+⭐ Always exploring emerging tools and innovative techniques to stay ahead.  
 
-⭐ Always motivated to grow both personally and professionally, embracing challenges with a positive mindset.
+
+
 </p>
 </td>
 <td width="50%" align="center">
@@ -112,15 +120,19 @@
 </p>
 
 
+---
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashidhi&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashidhi&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashidhi&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashidhi&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashidhi&theme=algolia&utcOffset=8)
 
 
 
 
   
  
-
 
 
 
