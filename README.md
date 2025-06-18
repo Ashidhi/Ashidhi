@@ -1,8 +1,5 @@
 
-<div style="overflow-x: auto; width: 100%;">
-
-
-
+<div align="center" style="max-width: 100%; transform: scale(0.85); transform-origin: top center;">
 
 
 
