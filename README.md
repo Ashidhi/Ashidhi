@@ -1,125 +1,68 @@
-
-
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="90%" height="300" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="90%" height="220" />
 </p>
-
-
 
 <h1 align="center">Hey there 👋, I'm Ashidhi Karunarathna</h1>
-<h3 align="center">🎓 Data Science Student | 📊 Data Explorer | 🤖 ML Beginner </h3>
-
----
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-<p>
-⭐ Currently diving deep into Data Science at Plymouth University.
-  
-⭐ Enthralled by the art of extracting stories hidden within data.  
-
-⭐ Committed to mastering Python, Machine Learning, and AI with curiosity and rigor.  
-
-⭐ Always exploring emerging tools and innovative techniques to stay ahead.  
-
-
-
-</p>
-</td>
-<td width="50%" align="center">
-<img align="center" alt="Coding" width="350" src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif">
-</td>
-</tr>
-</table>
-
+<h3 align="center">Data Science Undergraduate | Machine Learning Enthusiast | Full Stack Web Developer</h3>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=ADD8E6&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%9A%80+Aspiring+Data+Scientist+%7C+Python+%7C+ML+%7C+AI" alt="Typing Blue" />
-</p>
+## 👩‍💻 About Me
 
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=DDA0DD&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%8E%93+Passionate+About+Turning+Data+Into+Stories" alt="Typing Magenta" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=90EE90&center=true&vCenter=true&width=500&height=23&lines=%F0%9F%93%9A+Always+Learning+and+Growing+Every+Day" alt="Typing Green" />
-</p>
+- Final year **BSc (Hons) Data Science** undergraduate at Plymouth University
+- Passionate about building **AI-driven intelligent systems** and **full-stack applications**
+- Interested in **Machine Learning, Recommender Systems, Predictive Analytics, and Web Development**
+- Currently developing **SewCeylon – AI Powered Tailoring Marketplace Web Application**
 
+---
 
+## 🚀 Current Focus
+- Hybrid Recommendation Systems
+- Machine Learning Model Development
+- Full Stack MERN Engineering
+- AI Integration into Web Platforms
 
+---
 
+## 📌 Featured Projects
+
+### SewCeylon – AI Powered Tailoring Marketplace
+Full-stack intelligent tailoring marketplace integrating customer-tailor workflows, secure payments, real-time chat, reviews, notifications, and a hybrid recommendation engine.
+
+### Credit Risk Scoring using Machine Learning
+Built a predictive machine learning pipeline for customer creditworthiness using preprocessing, model comparison, and optimized learning models.
 ---
 
 ## 🧰 Tech Stack
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- R -->
-  <a href="https://www.r-project.org/" target="blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
-  </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-
- <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" style="margin-right: 8px;"/>
-</a>
-
-<!-- scikit-learn -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" style="margin-right: 8px;"/>
-</a>
-
-<!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 8px;"/>
-</a>
-
-  <!-- Jupyter -->
-  <a href="https://jupyter.org/" target=" " rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashidhi-karunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashidhi Karunarathna" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashidhinelusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashidhinelusha" height="30" width="40" /></a>
-<a href="https://instagram.com/a_shi_dhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_shi_dhi" height="30" width="40" /></a>
-  <a href="mailto:ashidhinelusha@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" height="30" width="40"/>
-</a>
-</p>
+## 📫 Connect with Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/ashidhi-karunarathna">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/ashidhinelusha">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:ashidhinelusha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
